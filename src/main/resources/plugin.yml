@@ -1,0 +1,9 @@
+main: ParkourPlugin
+name: ParkourPlugin
+version: build-0.1
+api-version: 1.15
+commands:
+  pk:
+    description: Teleports player to parkour.
+  pka:
+    description: Parkour admin command.
